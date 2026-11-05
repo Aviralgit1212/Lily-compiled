@@ -39,7 +39,7 @@ cd lily-compiled
 
 This is a browser-based project and does not require a build system.
 
-You can open `index.html` directly in a modern browser or use VS Code Live Server.
+You can open `lily.html` directly in a modern browser or use VS Code Live Server.
 
 ### 3. Open in Browser
 
@@ -69,7 +69,7 @@ The animation follows a carefully timed visual sequence:
 ```text
 lily-compiled/
 │
-├── index.html
+├── lily.html
 └── README.md
 ```
 
